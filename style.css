@@ -1,0 +1,35 @@
+{margin:1%;
+}
+body{
+    background-color: rgb(245, 244, 244);
+}
+h1{
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Roboto','Ubunto' ,'Nunito';
+    color:rgb(92, 89, 92);
+}
+.OctoCats1,.OctoCats2,.OctoCats3{
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+    .OctoCats1{
+        background-color: rgb(252, 6, 6);
+        align-content: center
+}
+    .OctoCats2{
+        background-color: rgb(226, 250, 11);
+        align-content: center
+}
+    .OctoCats3{
+        background-color: rgb(128, 9, 112);
+        align-content: center
+}
+img{
+    height: 210px;
+}
+p{
+    text-align: center;
+    margin-top: 2%;
+}
